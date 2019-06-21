@@ -5,11 +5,12 @@ h1{
     color: black
 }
 .titlebutton{
-    background-color: aquamarine;
+    background-color: white;
     text-align: center;
     padding: 15px 32px;
     font-size: 16px;
 }
 body{
     text-align: center;
+    background-image: url("http://www.bruna.cat/imgdownload/full/56/563570/pirate-map-wallpaper.jpg");
 }
